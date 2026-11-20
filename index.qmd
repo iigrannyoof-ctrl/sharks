@@ -1,0 +1,12 @@
+---
+title: "Shark Attacks"
+---
+
+The Global Shark Attack File is a public record of reported shark incidents
+around the world. Although these events receive considerable attention, the
+risk of a shark attack is relatively low.
+
+Explore the **Map** to see where reported attacks have occurred and the
+**Trends** page to follow attacks over time and compare outcomes across common
+activities. The visualizations use records from the Global Shark Attack File;
+they describe reported incidents, not the likelihood of an encounter.

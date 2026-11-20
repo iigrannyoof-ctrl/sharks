@@ -1,0 +1,6 @@
+/.quarto/
+**/*.quarto_ipynb
+_site/
+*_files/
+*_cache/
+data/attacks.rds
